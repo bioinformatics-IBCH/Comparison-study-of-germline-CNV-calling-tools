@@ -40,8 +40,11 @@ ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/exome_pull_down_tar
 ```bash
 ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd20_McCarroll_et_al_2006/gvf/nstd20_McCarroll_et_al_2006.2015-11-02.GRCh37.Remapped.gvf) 
 ```
-- [*conrad2006*](ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd17_Conrad_et_al_2006/gvf/nstd17_Conrad_et_al_2006.2015-11-02.GRCh37.Remapped.gvf) (Conrad *et al. Nature Genetics*, 2006)
-- [*redon*](ftp://ftp.ebi.ac.uk/pub/databases/dgva/estd1_Redon_et_al_2006/gvf/estd1_Redon_et_al_2006.2014-04-01.GRCh37.Remapped.gvf) (Redon *et al. Nature*, 2006)
+
+```bash
+- conrad2006 ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd17_Conrad_et_al_2006/gvf/nstd17_Conrad_et_al_2006.2015-11-02.GRCh37.Remapped.gvf
+- redon (ftp://ftp.ebi.ac.uk/pub/databases/dgva/estd1_Redon_et_al_2006/gvf/estd1_Redon_et_al_2006.2014-04-01.GRCh37.Remapped.gvf) 
+```
 - [*wang*](ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd64_Wang_et_al_2007/gvf/nstd64_Wang_et_al_2007.2017-10-03.GRCh37.Remapped.gvf) (Wang *et al. Genome Research*, 2007)
 - [*pinto*](ftp://ftp.ebi.ac.uk/pub/databases/dgva/estd55_Pinto_et_al_2007/gvf/estd55_Pinto_et_al_2007.2014-04-02.GRCh37.Remapped.gvf) (Pinto *et al. Human Molecular Genetics*, 2007)
 - [*cooper*](ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd14_Cooper_et_al_2008/gvf/nstd14_Cooper_et_al_2008.2015-11-02.GRCh37.Remapped.gvf) (Cooper *et al. Nature Genetics*, 2008)
