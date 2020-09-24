@@ -1,3 +1,8 @@
+import pandas as pd
+import scipy
+from scipy import special
+from scipy.stats import beta
+
 def add_standard(df,x):
 
 
@@ -34,12 +39,7 @@ population=population[population['European']!='.']
 x=population['European'].astype(float)
 x[x>1000]=1000
 
-import scipy
 a,b,sd,res=scipy.stats.beta.fit(x)
-from scipy import special
-from scipy.stats import beta
-
-
 
 df['pro']=(df[st]==1).sum(axis=1)   
 df['con']=(df[st]==0).sum(axis=1) 
