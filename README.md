@@ -1,4 +1,11 @@
-
+This repository contains following scripts:
+ - processing whole-exome sequencing data
+ - construction of validation set based on multiple data
+ - choise of reference set and running CNV callers
+ - analysis of CNV calling tools perfomance
+ 
+ 
+ running algorithms and analyzing
 
 
 ## Datasets:
