@@ -36,7 +36,8 @@ ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/exome_pull_down_tar
  
  **CNV sets used to construct internal standard  for NA12878 at exon level**
  
-- *mccarroll2006*  (McCarroll *et al. Nature Genetics*, 2006) ```bash
+- *mccarroll2006*  (McCarroll *et al. Nature Genetics*, 2006) 
+```bash
 ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd20_McCarroll_et_al_2006/gvf/nstd20_McCarroll_et_al_2006.2015-11-02.GRCh37.Remapped.gvf) 
 ```
 - [*conrad2006*](ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd17_Conrad_et_al_2006/gvf/nstd17_Conrad_et_al_2006.2015-11-02.GRCh37.Remapped.gvf) (Conrad *et al. Nature Genetics*, 2006)
