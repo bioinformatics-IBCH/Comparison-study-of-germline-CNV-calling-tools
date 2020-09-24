@@ -1,0 +1,49 @@
+Sample	Population	Sex	Center*	Capture Technology	Platform	Correlation with NA12878
+NA12878	CEU	female	BI	Agilent SureSelect & All & Exon & V2	ILLUMINA HiSeq 2000	1,000
+NA06989	CEU	female	BI	Agilent SureSelect & All & Exon & V2	ILLUMINA HiSeq 2000	0,978
+NA07347	CEU	male	BI	Agilent SureSelect & All & Exon & V2	ILLUMINA HiSeq 2000	0,965
+NA07051	CEU	male	BI	Agilent SureSelect & All & Exon & V2	ILLUMINA HiSeq 2000	0,955
+NA18999	JPT	female	BI	Agilent SureSelect & All & Exon & V2	ILLUMINA HiSeq 2000	0,954
+NA18959	JPT	male	BI	Agilent SureSelect & All & Exon & V2	ILLUMINA HiSeq 2000	0,954
+NA18960	JPT	male	BI	Agilent SureSelect & All & Exon & V2	ILLUMINA HiSeq 2000	0,949
+NA06986	CEU	male	BI	Agilent SureSelect & All & Exon & V2	ILLUMINA HiSeq 2000	0,939
+NA11843	CEU	male	BI	Agilent SureSelect & All & Exon & V2	ILLUMINA HiSeq 2000	0,882
+NA12340	CEU	male	BI	Agilent SureSelect & All & Exon & V2	ILLUMINA HiSeq 2000	0,880
+NA12761	CEU	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,880
+NA19159	YRI	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,862
+NA19206	YRI	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,853
+NA19131	YRI	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,852
+NA12718	CEU	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,851
+NA12249	CEU	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,838
+NA19138	YRI	male	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,837
+NA18981	JPT	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,833
+NA11840	CEU	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,833
+NA18973	JPT	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,833
+NA18966	JPT	male	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,832
+NA10847	CEU	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,831
+NA19152	YRI	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,830
+NA12751	CEU	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,827
+NA19153	YRI	male	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,827
+NA19223	YRI	male	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,819
+NA18967	JPT	male	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,819
+NA12760	CEU	male	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,815
+NA12717	CEU	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,814
+NA06994	CEU	male	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,810
+NA18970	JPT	male	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,809
+NA07037	CEU	female	BGI	NimbleGen SeqCap & EZ & Exome & v2	ILLUMINA HiSeq 2000	0,384
+NA12347	CEU	male	BGI	NimbleGen SeqCap & EZ & Exome & v2	ILLUMINA HiSeq 2000	0,378
+NA11893	CEU	male	BGI	NimbleGen SeqCap & EZ & Exome & v2	ILLUMINA HiSeq 2000	0,376
+NA12413	CEU	male	BGI	NimbleGen SeqCap & EZ & Exome & v2	ILLUMINA HiSeq 2000	0,375
+NA12775	CEU	male	BGI	NimbleGen SeqCap & EZ & Exome & v2	ILLUMINA HiSeq 2000	0,375
+NA12827	CEU	male	BGI	NimbleGen SeqCap & EZ & Exome & v2	ILLUMINA HiSeq 2000	0,371
+NA19239	YRI	male	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,232
+NA12044	CEU	female	BCM	HSGC VCRome	ILLUMINA HiSeq 2000	0,231
+NA19240	YRI	female	WUGSC	NimbleGen SeqCap & EZ & Exome v3	ILLUMINA HiSeq 2000	0,211
+NA06985	CEU	female	BCM	HSGC VCRome	ILLUMINA HiSeq 2000	0,202
+NA12489	CEU	female	BCM	HSGC VCRome	ILLUMINA HiSeq 2000	0,202
+NA12156	CEU	female	BCM	HSGC VCRome	ILLUMINA HiSeq 2000	0,199
+NA10851	CEU	male	BCM	HSGC VCRome	ILLUMINA HiSeq 2000	0,186
+NA11995	CEU	female	BCM	HSGC VCRome	ILLUMINA HiSeq 2000	0,159
+NA19099	YRI	female	BCM	HSGC VCRome	ILLUMINA HiSeq 2000	0,151
+						
+* BI - Broad Institute, BMC - Baylor College of Medicine, WUGSC -  Washington University Genome Center						
