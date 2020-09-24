@@ -46,7 +46,7 @@ ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd17_Conrad_et_al_2006/gvf/nstd17_Conra
  ```
 - *wang* (Wang *et al. Genome Research*, 2007)
 ```bash
-ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd64_Wang_et_al_2007/gvf/nstd64_Wang_et_al_2007.2017-10-03.GRCh37.Remapped.gvf) (Wang *et al. Genome Research*, 2007
+ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd64_Wang_et_al_2007/gvf/nstd64_Wang_et_al_2007.2017-10-03.GRCh37.Remapped.gvf) 
 ```
 - *pinto* (Pinto *et al. Human Molecular Genetics*, 2007)
 ```bash
@@ -56,7 +56,7 @@ ftp://ftp.ebi.ac.uk/pub/databases/dgva/estd55_Pinto_et_al_2007/gvf/estd55_Pinto_
 ```bash
 ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd14_Cooper_et_al_2008/gvf/nstd14_Cooper_et_al_2008.2015-11-02.GRCh37.Remapped.gvf
 ```
-- *mccarroll2008* (Sup.Tables [2](https://static-content.springer.com/esm/art%3A10.1038%2Fng.238/MediaObjects/41588_2008_BFng238_MOESM24_ESM.xls),[3](https://static-content.springer.com/esm/art%3A10.1038%2Fng.238/MediaObjects/41588_2008_BFng238_MOESM25_ESM.xls McCarroll *et al. Nature Genetics*, 2008)
+- *mccarroll2008* (Sup.Tables [2](https://static-content.springer.com/esm/art%3A10.1038%2Fng.238/MediaObjects/41588_2008_BFng238_MOESM24_ESM.xls),[3](https://static-content.springer.com/esm/art%3A10.1038%2Fng.238/MediaObjects/41588_2008_BFng238_MOESM25_ESM.xls) McCarroll *et al. Nature Genetics*, 2008)
  
 - [*hapmap*](ftp://ftp.ncbi.nlm.nih.gov/hapmap/cnv_data/hm3_cnv_submission.txt) (International HapMap 3 Consortium, *et al. Nature*, 2010)
 - [*conrad2010*](https://static-content.springer.com/esm/art%3A10.1038%2Fnature08516/MediaObjects/41586_2010_BFnature08516_MOESM10_ESM.xls) (Conrad *et al. Nature*, 2010)
