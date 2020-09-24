@@ -27,7 +27,7 @@ ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/exome_pull_down_tar
  - [PatternCNV](https://github.com/svsgvarma/patternCNV) (Wang *et al. Bioinformatics*, 2014)
  - [XHMM](https://statgen.bitbucket.io/xhmm/index.html) (Fromer *et al. Am J Hum Genet*, 2012)
  
- **CNV sets used to construct internal standard at exon level**
+ **CNV sets used to construct internal standard  for NA12878 at exon level**
 - [*mccarroll2006*](ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd20_McCarroll_et_al_2006/gvf/nstd20_McCarroll_et_al_2006.2015-11-02.GRCh37.Remapped.gvf) (McCarroll *et al. Nature Genetics*, 2006)
 - [*conrad2006*](ftp://ftp.ebi.ac.uk/pub/databases/dgva/nstd17_Conrad_et_al_2006/gvf/nstd17_Conrad_et_al_2006.2015-11-02.GRCh37.Remapped.gvf) (Conrad *et al. Nature Genetics*, 2006)
 - [*redon*](ftp://ftp.ebi.ac.uk/pub/databases/dgva/estd1_Redon_et_al_2006/gvf/estd1_Redon_et_al_2006.2014-04-01.GRCh37.Remapped.gvf) (Redon *et al. Nature*, 2006)
