@@ -14,12 +14,12 @@ read.count <- getBamCounts(bed.frame = bed,
                           include.chr = FALSE,
                           referenceFasta = fasta)
 
-save(reads.counts, file="/home/gordeeva/./comparasion_study/calling-tools/exomedepth/counts.RData")
+save(read.count, file="/home/gordeeva/./comparasion_study/calling-tools/exomedepth/counts.RData")
 
 rc <- as.data.frame(read.count)
 
 my.test<-rc$NA12878.bam
-my.reference.set <-as.matrix(rc[,6:ncol(norma),select=-NA12878.bam])
+my.reference.set <-as.matrix(rc[,6:ncol(rc),select=-NA12878.bam])
 my.choice<-select.reference.set(test.counts= my.test,                                  
                                 reference.counts= my.reference.set, 
                                 bin.length = (rc$end-rc$start)/1000,
