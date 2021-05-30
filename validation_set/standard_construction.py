@@ -46,7 +46,7 @@ df['con']=(df[st]==0).sum(axis=1)
 df['NA']=df[st].isnull().sum(axis=1)
 
 
-df['exon_rate']=map(lambda x,y,w,z: np.nan if x+y+z+w<1 else special.betaincinv(x+a,y+b,5/21.), 
+df['exon_rate']=map(lambda x,y: np.nan if x+y<1 else special.betaincinv(x+a,y+b,5/21.), 
                     df['pro'],df['con'])
 
 threshold=df['exon_rate'].max()*0.5
