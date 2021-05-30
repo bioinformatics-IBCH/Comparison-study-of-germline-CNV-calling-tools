@@ -41,15 +41,13 @@ x[x>1000]=1000
 
 a,b,sd,res=scipy.stats.beta.fit(x)
 
-df['pro']=(df[st]==1).sum(axis=1)   
+df['pro']=(df[st]>0).sum(axis=1)   
 df['con']=(df[st]==0).sum(axis=1) 
-df['low_pacbio']= df['pacbio'].map(lambda x: 1 if x == 0.1 else 0)
-df['low_metasv']= df['metasv'].map(lambda x: 1 if x == 0.1 else 0)
 df['NA']=df[st].isnull().sum(axis=1)
 
 
-df['exon_rate']=map(lambda x,y,w,z: np.nan if x+y+z+w<1 else special.betaincinv(x+a+w*358/6546.+z*2256/24306,y+b,5/21.), 
-                    df['pro'],df['con'],df['low_pacbio'],df['low_metasv'])
+df['exon_rate']=map(lambda x,y,w,z: np.nan if x+y+z+w<1 else special.betaincinv(x+a,y+b,5/21.), 
+                    df['pro'],df['con'])
 
 threshold=df['exon_rate'].max()*0.5
 
