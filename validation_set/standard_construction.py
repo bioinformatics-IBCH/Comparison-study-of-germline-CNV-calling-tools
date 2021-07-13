@@ -49,7 +49,7 @@ df['NA']=df[st].isnull().sum(axis=1)
 df['exon_rate']=map(lambda x,y: np.nan if x+y<1 else special.betaincinv(x+a,y+b,5/21.), 
                     df['pro'],df['con'])
 
-threshold=df['exon_rate'].max()*0.5
+threshold=0.45
 
 df['our_standard']= map(lambda x: 1 if (x>=threshold) else (0  if (x<threshold) else '-'),df['exon_rate'])
 df[['chr','start','end','exon','gene','our_standard']].to_csv('/home/gordeeva/./comparasion_study/standard.bed',
